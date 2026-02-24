@@ -10,8 +10,7 @@ Estudante em aprendizado constante, focado em **Python e JavaScript**.
 ## 📊 Minhas Estatísticas do GitHub
 
 <a href="https://github.com/gabriel-santos123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-santos123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-santos123&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=gabriel-santos123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://www.google.com/imgres?q=gif%20programador&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1000%2F1*-kDfdHM08x820AD27iXtaA.gif&imgrefurl=https%3A%2F%2Fmedium.com%2F%40josue_barbosa%2Fser-programador-d8a34526f3e&docid=oXyKGjvJlKmFBM&tbnid=o9MO6iP1TIDDTM&vet=12ahUKEwiIs4KXi_KSAxUpqJUCHVT9CSsQnPAOegQIHxAB..i&w=500&h=300&hcb=2&ved=2ahUKEwiIs4KXi_KSAxUpqJUCHVT9CSsQnPAOegQIHxAB)"/>
 </a>
 
 ---
