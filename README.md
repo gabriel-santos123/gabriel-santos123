@@ -2,13 +2,24 @@
 
 # 🚀 Olá, eu sou o Gabriel!
 
-<br> ### 👨‍💻 Estudante de Engenharia de Software
+<br>
+
+### ⏳ **Em formação**
+### 👨‍💻 Estudante de Engenharia de Software
 Estudante em aprendizado constante, focado em **Python e JavaScript**.
-<br> ### 🎓 Formação 
-<br> **Técnico em Análise e Desenvolvimento de Sistemas** *Integrado ao Ensino Médio* Concluído entre os anos de 2023 até 2025.
 
 <br>
-<br> 
+
+---
+
+## 🎓 Formação
+
+**Técnico em Análise e Desenvolvimento de Sistemas**
+*Integrado ao Ensino Médio* • Concluído (2023 - 2025)
+
+<br>
+
+---
 
 ## 🛠 Ferramentas e Tecnologias
 
@@ -28,7 +39,7 @@ Estudante em aprendizado constante, focado em **Python e JavaScript**.
 
 <br>
 
-
+---
 
 ## 📈 Visualizações do Perfil
 
