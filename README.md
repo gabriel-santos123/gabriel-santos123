@@ -4,6 +4,8 @@
 
 <br> ### 👨‍💻 Estudante de Engenharia de Software
 Estudante em aprendizado constante, focado em **Python e JavaScript**.
+<br> ### 🎓 Formação 
+<br> **Técnico em Análise e Desenvolvimento de Sistemas** *Integrado ao Ensino Médio* Concluído entre os anos de 2023 até 2025.
 
 <br>
 <br> 
