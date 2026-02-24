@@ -9,7 +9,7 @@ Sou um estudante em aprendizado constante, atualmente, estou focado em **Python 
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="(https://github.com/gabriel-santos123)">
     <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula" alt="Stats">
   </a>
   <br>
@@ -26,5 +26,5 @@ Sou um estudante em aprendizado constante, atualmente, estou focado em **Python 
 
 ## 👁️ Visualizações do Perfil
 
- HITS.
-  👆 Clique aqui para ver as visitas ao meu perfil!
+<img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel-santos123.README" />
+
