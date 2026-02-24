@@ -4,18 +4,22 @@
 
 <br>
 
-### ⏳ **Em formação**
-### 👨‍💻 Estudante de Engenharia de Software
+### 👨‍💻 Sobre mim
 Estudante em aprendizado constante, focado em **Python e JavaScript**.
 
 <br>
 
 ---
 
-## 🎓 Formação
+## 🎓 Formação Acadêmica
+
+**Bacharelado em Engenharia de Software**
+*Cursando* • (2025 - 2029) ⏳
+
+<br>
 
 **Técnico em Análise e Desenvolvimento de Sistemas**
-*Integrado ao Ensino Médio* • Concluído (2023 - 2025)
+*Integrado ao Ensino Médio* • Concluído (2023 - 2025) ✅
 
 <br>
 
