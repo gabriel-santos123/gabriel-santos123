@@ -14,7 +14,7 @@ Estudante em aprendizado constante, focado em **Python e JavaScript**.
 ## 🎓 Formação Acadêmica
 
 **Bacharelado em Engenharia de Software**
-*Cursando* • (2025 - 2029) ⏳
+*Cursando* • (2026 - 2030) ⏳
 
 <br>
 
