@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🚀 Olá, eu sou o Gabriel!
 
-<!--
-**gabriel-santos123/gabriel-santos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+Sou um estudante em aprendizado constante, atualmente, estou focado em **Python e JavaScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+github-readme-stats
+      👆 Clique aqui para ver o meu progresso!
+
+## 🛠 Ferramentas e Tecnologias
+
+* **Linguagens:** JavaScript e Python.
+* **Frameworks:** React, Flask, Vue.js.
+* **Banco de Dados:** MongoDB, MySQL, SQLite.
+
+---
+
+## 👁️ Visualizações do Perfil
+
+ HITS.
+  👆 Clique aqui para ver as visitas ao meu perfil!
