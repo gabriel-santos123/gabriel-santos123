@@ -6,7 +6,7 @@
 Estudante em aprendizado constante, focado em **Python e JavaScript**.
 
 <br>
-<br> ---
+<br> 
 
 ## 🛠 Ferramentas e Tecnologias
 
@@ -26,7 +26,7 @@ Estudante em aprendizado constante, focado em **Python e JavaScript**.
 
 <br>
 
----
+
 
 ## 📈 Visualizações do Perfil
 
