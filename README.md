@@ -8,8 +8,13 @@ Sou um estudante em aprendizado constante, atualmente, estou focado em **Python 
 
 ## 📊 Minhas Estatísticas do GitHub
 
-github-readme-stats
-      👆 Clique aqui para ver o meu progresso!
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula" alt="Stats">
+  </a>
+  <br>
+  👉 <b>CLIQUE AQUI</b> PARA VER MAIS 👈
+</p>
 
 ## 🛠 Ferramentas e Tecnologias
 
