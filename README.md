@@ -1,30 +1,37 @@
+<div align="center">
+
 # 🚀 Olá, eu sou o Gabriel!
 
 ### 👨‍💻 Estudante de Engenharia de Software
-
-Sou um estudante em aprendizado constante, atualmente, estou focado em **Python e JavaScript**.
+Estudante em aprendizado constante, focado em **Python e JavaScript**.
 
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
-  <a href="(https://github.com/gabriel-santos123)">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula" alt="Stats">
-  </a>
-  <br>
-  👉 <b>CLIQUE AQUI</b> PARA VER MAIS 👈
-</p>
-
-## 🛠 Ferramentas e Tecnologias
-
-* **Linguagens:** JavaScript e Python.
-* **Frameworks:** React, Flask, Vue.js.
-* **Banco de Dados:** MongoDB, MySQL, SQLite.
+<a href="https://github.com/gabriel-santos123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-santos123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-santos123&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
 ---
 
-## 👁️ Visualizações do Perfil
+## 🛠 Ferramentas e Tecnologias
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel-santos123.README" />
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📈 Visualizações do Perfil
+
+![Views](https://komarev.com/ghpvc/?username=gabriel-santos123&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square)
+
+</div>
