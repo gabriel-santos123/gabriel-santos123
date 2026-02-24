@@ -49,6 +49,8 @@ Estudante em aprendizado constante, focado em **Python e JavaScript**.
 
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=gabriel-santos123&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square)
+<a href="https://github.com/gabriel-santos123?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=gabriel-santos123&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Views">
+</a>
 
 </div>
